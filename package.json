@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "serve": "parcel server src/index.html",
+    "serve": "parcel serve src/index.html",
     "build": "parcel build src/index.html"
   },
   "license": "MIT",
